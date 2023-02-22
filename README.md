@@ -14,7 +14,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] Operator Penugasan
 - [X] Operator Logika
 - [X] Operator Type Test
-- [ ] List
+- [X] List
 - [ ] Set
 - [ ] Map
 - [ ] Symbol
