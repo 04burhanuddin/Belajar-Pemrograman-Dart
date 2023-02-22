@@ -11,7 +11,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] Konversi Tipe Data
 - [X] Operator Artimatika
 - [X] Operator Perbandingan
-- [ ] Operator Penugasan
+- [X] Operator Penugasan
 - [ ] Operator Logika
 - [ ] Operator Type Test
 - [ ] List
