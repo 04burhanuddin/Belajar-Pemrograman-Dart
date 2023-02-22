@@ -20,7 +20,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] Symbol
 - [X] If-Else
 - [X] Switch-Case
-- [ ] Null
+- [X] Null
 - [ ] Ternary Operator
 - [ ] Null-Safety
 - [ ] For Loop
