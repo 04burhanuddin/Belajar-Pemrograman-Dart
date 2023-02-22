@@ -10,7 +10,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] Dynamic
 - [X] Konversi Tipe Data
 - [X] Operator Artimatika
-- [ ] Operator Perbandingan
+- [X] Operator Perbandingan
 - [ ] Operator Penugasan
 - [ ] Operator Logika
 - [ ] Operator Type Test
