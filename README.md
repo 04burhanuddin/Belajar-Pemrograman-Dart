@@ -16,7 +16,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] Operator Type Test
 - [X] List
 - [X] Set
-- [ ] Map
+- [X] Map
 - [ ] Symbol
 - [ ] If-Else
 - [ ] Switch-Case
