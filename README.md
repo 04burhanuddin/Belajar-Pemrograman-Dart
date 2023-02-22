@@ -9,7 +9,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] String
 - [X] Dynamic
 - [X] Konversi Tipe Data
-- [ ] Operator Artimatika
+- [X] Operator Artimatika
 - [ ] Operator Perbandingan
 - [ ] Operator Penugasan
 - [ ] Operator Logika
