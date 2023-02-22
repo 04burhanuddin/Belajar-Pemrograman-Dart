@@ -21,7 +21,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] If-Else
 - [X] Switch-Case
 - [X] Null
-- [ ] Ternary Operator
+- [X] Ternary Operator
 - [ ] Null-Safety
 - [ ] For Loop
 - [ ] While Loop
