@@ -8,7 +8,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] Boolean
 - [X] String
 - [X] Dynamic
-- [ ] Konversi Tipe Data
+- [X] Konversi Tipe Data
 - [ ] Operator Artimatika
 - [ ] Operator Perbandingan
 - [ ] Operator Penugasan
