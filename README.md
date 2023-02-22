@@ -13,7 +13,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] Operator Perbandingan
 - [X] Operator Penugasan
 - [X] Operator Logika
-- [ ] Operator Type Test
+- [X] Operator Type Test
 - [ ] List
 - [ ] Set
 - [ ] Map
