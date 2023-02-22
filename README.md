@@ -6,7 +6,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] Komentar
 - [X] Number
 - [X] Boolean
-- [ ] String
+- [X] String
 - [ ] Dynamic
 - [ ] Konversi Tipe Data
 - [ ] Operator Artimatika
