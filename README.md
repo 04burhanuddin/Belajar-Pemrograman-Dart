@@ -15,7 +15,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] Operator Logika
 - [X] Operator Type Test
 - [X] List
-- [ ] Set
+- [X] Set
 - [ ] Map
 - [ ] Symbol
 - [ ] If-Else
