@@ -4,7 +4,7 @@ in `lib/`, and example unit test in `test/`.
 
 - [X] Variabel
 - [X] Komentar
-- [ ] Number
+- [X] Number
 - [ ] Boolean
 - [ ] String
 - [ ] Dynamic
