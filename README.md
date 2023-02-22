@@ -19,7 +19,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] Map
 - [X] Symbol
 - [X] If-Else
-- [ ] Switch-Case
+- [X] Switch-Case
 - [ ] Null
 - [ ] Ternary Operator
 - [ ] Null-Safety
