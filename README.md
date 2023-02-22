@@ -5,7 +5,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] Variabel
 - [X] Komentar
 - [X] Number
-- [ ] Boolean
+- [X] Boolean
 - [ ] String
 - [ ] Dynamic
 - [ ] Konversi Tipe Data
