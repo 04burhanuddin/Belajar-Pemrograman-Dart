@@ -40,4 +40,4 @@ in `lib/`, and example unit test in `test/`.
 - [X] Anonymous-Function
 - [X] Scope
 - [X] Closure
-- [ ] Recursive-Function
+- [X] Recursive-Function
