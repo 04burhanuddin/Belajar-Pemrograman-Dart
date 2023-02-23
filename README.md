@@ -30,7 +30,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] For-In
 - [X] Function
 - [X] Function-Parameter
-- [ ] Optional-Parameter
+- [X] Optional-Parameter
 - [ ] Named-Parameter
 - [ ] Function-Return-Value
 - [ ] Function-Short-Expression
