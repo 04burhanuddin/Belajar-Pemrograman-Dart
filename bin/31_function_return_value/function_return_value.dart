@@ -6,7 +6,6 @@ dan di dalam blok function, untuk menghasilkan nilai tersebut kita menggunakan k
 di ikuti dengan tipe data yang sudah di deklarasikan pada functon
 ! ingat menghasilkan data di function terbatas hanya bisa 1 tidak bisa lebih dari 1 data
 */
-
 void main(List<String> args) {
   var data = sayHello('Burhan R');
   print(data);
