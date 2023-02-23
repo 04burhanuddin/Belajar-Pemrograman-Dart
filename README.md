@@ -29,7 +29,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] Break dan Continue
 - [X] For-In
 - [X] Function
-- [ ] Function-Parameter
+- [X] Function-Parameter
 - [ ] Optional-Parameter
 - [ ] Named-Parameter
 - [ ] Function-Return-Value
