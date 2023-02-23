@@ -23,7 +23,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] Null
 - [X] Ternary Operator
 - [X] Null-Safety
-- [ ] For Loop
+- [X] For Loop
 - [ ] While Loop
 - [ ] Do While Loop
 - [ ] Break dan Continue
