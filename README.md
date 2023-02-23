@@ -22,7 +22,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] Switch-Case
 - [X] Null
 - [X] Ternary Operator
-- [ ] Null-Safety
+- [X] Null-Safety
 - [ ] For Loop
 - [ ] While Loop
 - [ ] Do While Loop
