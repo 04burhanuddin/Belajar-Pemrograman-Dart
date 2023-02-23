@@ -31,7 +31,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] Function
 - [X] Function-Parameter
 - [X] Optional-Parameter
-- [ ] Named-Parameter
+- [X] Named-Parameter
 - [ ] Function-Return-Value
 - [ ] Function-Short-Expression
 - [ ] Inner-Function
