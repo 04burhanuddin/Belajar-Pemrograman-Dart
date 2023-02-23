@@ -38,6 +38,6 @@ in `lib/`, and example unit test in `test/`.
 - [X] Main-Function
 - [X] Higher-Order-Function
 - [X] Anonymous-Function
-- [ ] Scope
+- [X] Scope
 - [ ] Closure
 - [ ] Recursive-Function
