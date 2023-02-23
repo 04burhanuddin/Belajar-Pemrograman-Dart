@@ -33,7 +33,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] Optional-Parameter
 - [X] Named-Parameter
 - [X] Function-Return-Value
-- [ ] Function-Short-Expression
+- [X] Function-Short-Expression
 - [ ] Inner-Function
 - [ ] Main-Function
 - [ ] Higher-Order-Function
