@@ -26,7 +26,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] For Loop
 - [X] While Loop
 - [X] Do While Loop
-- [ ] Break dan Continue
+- [X] Break dan Continue
 - [ ] For-In
 - [ ] Function
 - [ ] Function-Parameter
