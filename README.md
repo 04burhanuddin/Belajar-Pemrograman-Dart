@@ -34,7 +34,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] Named-Parameter
 - [X] Function-Return-Value
 - [X] Function-Short-Expression
-- [ ] Inner-Function
+- [X] Inner-Function
 - [ ] Main-Function
 - [ ] Higher-Order-Function
 - [ ] Anonymous-Function
