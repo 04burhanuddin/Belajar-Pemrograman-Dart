@@ -35,7 +35,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] Function-Return-Value
 - [X] Function-Short-Expression
 - [X] Inner-Function
-- [ ] Main-Function
+- [X] Main-Function
 - [ ] Higher-Order-Function
 - [ ] Anonymous-Function
 - [ ] Scope
