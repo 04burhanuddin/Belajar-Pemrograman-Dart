@@ -24,7 +24,7 @@ in `lib/`, and example unit test in `test/`.
 - [X] Ternary Operator
 - [X] Null-Safety
 - [X] For Loop
-- [ ] While Loop
+- [X] While Loop
 - [ ] Do While Loop
 - [ ] Break dan Continue
 - [ ] For-In
