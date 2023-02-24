@@ -1,1 +1,47 @@
-#### Belajar Pemrograman Dart OOP
+#### Belajar Pemrograman Dart Object Oriented Programming (OOP)
+Require [Graphviz](https://www.example.com/my%20great%20page), untuk menampilkan diagram plant uml.
+
+- [ ] Pengenalan Dart OOP
+- [ ] Class
+- [ ] Object
+- [ ] Field
+- [ ] Method
+- [ ] Method Expression Body
+- [ ] Extension Method
+- [ ] Operator
+- [ ] Constructor
+- [ ] Variabel Shadowing
+- [ ] This Keyword
+- [ ] Initializing Format Parameter
+- [ ] Named Parameter
+- [ ] Redirecting Costructor
+- [ ] Initializer List
+- [ ] Constant Constractor
+- [ ] Factory COnstractor
+- [ ] Cascade Nation
+- [ ] Inheritance
+- [ ] Method Overriding
+- [ ] Field Overriding
+- [ ] Super Keyword
+- [ ] Super Constractor
+- [ ] Object Class
+- [ ] Polymorphism
+- [ ] Type Check dan Casts
+- [ ] Import
+- [ ] Abstrac Class
+- [ ] Acces Modifier
+- [ ] Getter dan Setter
+- [ ] Interface
+- [ ] Multiple Interface Inheritance
+- [ ] Mixin
+- [ ] ToString Method
+- [ ] Equals Operator
+- [ ] HashCode Getter
+- [ ] No Such Method
+- [ ] Typedef
+- [ ] Callable Class
+- [ ] Static
+- [ ] Enum
+- [ ] Exception
+- [ ] Error
+- [ ] Metadata
