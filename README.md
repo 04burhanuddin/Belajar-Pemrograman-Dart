@@ -1,9 +1,12 @@
 #### Belajar Pemrograman Dart Object Oriented Programming (OOP)
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
+
 Require [Graphviz](https://plantuml.com/en-dark/graphviz-dot), untuk menampilkan diagram plant uml.
 
 - [X] Pengenalan Dart OOP
 - [X] Class
-- [ ] Object
+- [X] Object
 - [ ] Field
 - [ ] Method
 - [ ] Method Expression Body
