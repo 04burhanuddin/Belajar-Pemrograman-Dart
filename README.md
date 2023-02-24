@@ -9,7 +9,7 @@ Require [Graphviz](https://plantuml.com/en-dark/graphviz-dot), untuk menampilkan
 - [X] Object
 - [X] Field
 - [X] Method
-- [ ] Method Expression Body
+- [X] Method Expression Body
 - [ ] Extension Method
 - [ ] Operator
 - [ ] Constructor
