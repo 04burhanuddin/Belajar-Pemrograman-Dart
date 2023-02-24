@@ -7,7 +7,7 @@ Require [Graphviz](https://plantuml.com/en-dark/graphviz-dot), untuk menampilkan
 - [X] Pengenalan Dart OOP
 - [X] Class
 - [X] Object
-- [ ] Field
+- [X] Field
 - [ ] Method
 - [ ] Method Expression Body
 - [ ] Extension Method
