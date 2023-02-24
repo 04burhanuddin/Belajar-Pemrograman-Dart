@@ -8,7 +8,7 @@ Require [Graphviz](https://plantuml.com/en-dark/graphviz-dot), untuk menampilkan
 - [X] Class
 - [X] Object
 - [X] Field
-- [ ] Method
+- [X] Method
 - [ ] Method Expression Body
 - [ ] Extension Method
 - [ ] Operator
