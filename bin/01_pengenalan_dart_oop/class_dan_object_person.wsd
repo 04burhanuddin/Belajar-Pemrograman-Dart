@@ -1,0 +1,33 @@
+@startuml person
+!theme _none_
+
+title Class dan Object Person
+class mahasiswa{
+    int nim
+    String firstName
+    String lastName
+    +String getLocation(double location)
+    +String changeProfile(String uid)
+}
+
+object burhan{
+    nim = "9291824"
+    firstName = "Burhan"
+    lastName = "R"
+}
+object elisa{
+    nim = "8346732"
+    firstName = "Elisa"
+    lastName = "Sartika"
+}
+object haerul{
+    nim = "1277434"
+    firstName = "Haerul"
+    lastName = "Anwar"
+}
+
+mahasiswa --> burhan : Create
+mahasiswa --> elisa : Create
+mahasiswa --> haerul : Create
+
+@enduml

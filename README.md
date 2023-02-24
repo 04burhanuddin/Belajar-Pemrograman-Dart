@@ -1,7 +1,7 @@
 #### Belajar Pemrograman Dart Object Oriented Programming (OOP)
 Require [Graphviz](https://plantuml.com/en-dark/graphviz-dot), untuk menampilkan diagram plant uml.
 
-- [ ] Pengenalan Dart OOP
+- [X] Pengenalan Dart OOP
 - [ ] Class
 - [ ] Object
 - [ ] Field
