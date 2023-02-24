@@ -2,7 +2,7 @@
 Require [Graphviz](https://plantuml.com/en-dark/graphviz-dot), untuk menampilkan diagram plant uml.
 
 - [X] Pengenalan Dart OOP
-- [ ] Class
+- [X] Class
 - [ ] Object
 - [ ] Field
 - [ ] Method
