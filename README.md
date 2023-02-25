@@ -11,7 +11,7 @@ Require [Graphviz](https://plantuml.com/en-dark/graphviz-dot), untuk menampilkan
 - [X] Method
 - [X] Method Expression Body
 - [X] Extension Method
-- [ ] Operator
+- [X] Operator
 - [ ] Constructor
 - [ ] Variabel Shadowing
 - [ ] This Keyword
