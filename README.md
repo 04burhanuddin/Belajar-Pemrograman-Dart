@@ -14,7 +14,7 @@ Require [Graphviz](https://plantuml.com/en-dark/graphviz-dot), untuk menampilkan
 - [X] Operator
 - [X] Constructor
 - [X] Variabel Shadowing
-- [ ] This Keyword
+- [X] This Keyword
 - [ ] Initializing Format Parameter
 - [ ] Named Parameter
 - [ ] Redirecting Costructor
