@@ -13,7 +13,7 @@ Require [Graphviz](https://plantuml.com/en-dark/graphviz-dot), untuk menampilkan
 - [X] Extension Method
 - [X] Operator
 - [X] Constructor
-- [ ] Variabel Shadowing
+- [X] Variabel Shadowing
 - [ ] This Keyword
 - [ ] Initializing Format Parameter
 - [ ] Named Parameter
