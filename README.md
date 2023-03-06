@@ -16,7 +16,7 @@ Require [Graphviz](https://plantuml.com/en-dark/graphviz-dot), untuk menampilkan
 - [X] Variabel Shadowing
 - [X] This Keyword
 - [X] Initializing Formal Parameter
-- [ ] Named Parameter
+- [X] Named Constractor
 - [ ] Redirecting Costructor
 - [ ] Initializer List
 - [ ] Constant Constractor
