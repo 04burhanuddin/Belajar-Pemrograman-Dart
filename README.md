@@ -17,7 +17,7 @@ Require [Graphviz](https://plantuml.com/en-dark/graphviz-dot), untuk menampilkan
 - [X] This Keyword
 - [X] Initializing Formal Parameter
 - [X] Named Constractor
-- [ ] Redirecting Costructor
+- [X] Redirecting Costructor
 - [ ] Initializer List
 - [ ] Constant Constractor
 - [ ] Factory COnstractor
